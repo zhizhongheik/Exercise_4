@@ -1,0 +1,12 @@
+tensorflow
+pathlib
+scipy
+random
+typing
+matplotlib.pyplot
+typing
+pandas
+shutil
+tqdm.auto
+numpy
+sklearn
